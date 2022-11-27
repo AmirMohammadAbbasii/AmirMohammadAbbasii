@@ -9,12 +9,16 @@
 - 🪧 I find that the harder I work, the more luck I seem to have.
 
 <h3>Connect with me:</h3>
-img
+   -test!-
+   
 
-**Languages and Tools:**
+<h3>Languages and Tools:</h3>
 
-![html5-1](https://user-images.githubusercontent.com/111681850/203991260-23ea6c77-fdd9-4466-a079-7529f4c12a3e.png)
-![html5-1](https://user-images.githubusercontent.com/111681850/203991260-23ea6c77-fdd9-4466-a079-7529f4c12a3e.png)
+![Python-logo-notext11 svg](https://user-images.githubusercontent.com/111681850/204157826-93179f53-20b5-48cf-bcf1-12fd59e8f36b.png)
+![html5-111](https://user-images.githubusercontent.com/111681850/204157880-9a2c9a5e-b4af-41fd-94f4-af56ce53984e.png)
+
+
+
 
    
 
