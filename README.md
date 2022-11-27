@@ -1,15 +1,14 @@
    <h2>Hello, I'm Amir Mohammad Abbasi</h2>
    
-**Hello I'm Amir Mohammad Abbasi**
-
 - 😍 I'm interested in programming and learning and development
 - 📖 I'm currently completing React & Jqourey
-- 💭 Ask me about the front end
-- 📫 How to reach me
-   test@gmail.com
-- ⛄ test
+- 💭 Ask me about the **front end**
+- 📫 How to reach me:
 
-**Connect with me:**
+    amir.m.abbasi.2021@gmail.com
+- 🪧 I find that the harder I work, the more luck I seem to have.
+
+<h4>Connect with me:</h4>
 img
 
 **Languages and Tools:**
