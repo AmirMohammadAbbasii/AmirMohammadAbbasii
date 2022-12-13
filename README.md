@@ -1,7 +1,6 @@
-   <h1>**Sorry,The page is being updated**</h1>
-   <h2>Hello, I'm Amir Mohammad Abbasi</h2>
+ <h2>Hello, I'm Amir Mohammad Abbasi</h2>
    
-<img  src="(https://user-images.githubusercontent.com/111681850/207242991-b07a8bc1-8f9e-4570-b151-7fbc5415f6ab.svg)" align="center" />
+<img  src="https://user-images.githubusercontent.com/111681850/207242991-b07a8bc1-8f9e-4570-b151-7fbc5415f6ab.svg" align="center" />
        
 - 😍 I'm interested in programming and learning and development
 - 📖 I'm currently completing React & Jqourey
