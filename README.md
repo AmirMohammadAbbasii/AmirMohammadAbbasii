@@ -17,7 +17,7 @@
 <h3>Languages and Tools:</h3>
 <i>images</i>
 
-![html5-line](https://user-images.githubusercontent.com/111681850/207666300-9186e956-f7ac-4f15-bc14-ffbdc87c7fbd.png)
+
 
 
 
