@@ -15,7 +15,8 @@
    
 
 <h3>Languages and Tools:</h3>
-https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white
+
+![Wise](https://img.shields.io/badge/Wise-394e79?style=for-the-badge&logo=wise&logoColor=00B9FF)
 
 
 
