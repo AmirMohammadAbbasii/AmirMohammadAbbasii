@@ -12,7 +12,8 @@
 
 <h3>Connect with me:</h3>
 
-![4550867_calling_chat_chatting_messenger_video calling_icon (2)](https://user-images.githubusercontent.com/111681850/207697983-98881fe0-3d5f-46da-8962-509c51c80f53.png)
+![4550867_calling_chat_chatting_messenger_video calling_icon (2) copy](https://user-images.githubusercontent.com/111681850/207698349-040af745-1adc-40e1-82ed-ac3831b4e46d.png)
+
 
 
 
