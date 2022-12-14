@@ -11,7 +11,8 @@
 - 🪧 I find that the harder I work, the more luck I seem to have.
 
 <h3>Connect with me:</h3>
-    <img src="(https://user-images.githubusercontent.com/111681850/207695072-decea8e1-7cc3-4f25-9093-99ce4d834e22.png)"/>
+![4550867_calling_chat_chatting_messenger_video calling_icon](https://user-images.githubusercontent.com/111681850/207696830-1fd434e6-c71d-4ae8-be18-091f9007c947.png)
+
 
 
 <h3>Languages and Tools:</h3>
