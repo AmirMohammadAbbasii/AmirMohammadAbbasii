@@ -7,7 +7,7 @@
 - 💭 Ask me about the **front end**
 - 📫 How to reach me:
 
-    amir.m.abbasi.2021@gmail.com
+     amir.m.abbasi.2021@gmail.com
 - 🪧 I find that the harder I work, the more luck I seem to have.
 
 <h3>Connect with me:</h3>
