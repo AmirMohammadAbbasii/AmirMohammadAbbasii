@@ -12,7 +12,7 @@
 
 <h3>Connect with me:</h3>
    <i>test!</i>
-   ![4550867_calling_chat_chatting_messenger_video calling_icon](https://user-images.githubusercontent.com/111681850/207695072-decea8e1-7cc3-4f25-9093-99ce4d834e22.png)
+    <img src="(https://user-images.githubusercontent.com/111681850/207695072-decea8e1-7cc3-4f25-9093-99ce4d834e22.png)"/>
 
 
 <h3>Languages and Tools:</h3>
