@@ -12,6 +12,8 @@
 
 <h3>Connect with me:</h3>
 
+    <img src="https://github.com/AmirMohammadAbbasii/AmirMohammadAbbasii/blob/main/images/icons8-linkedin-34.png?raw=true"/>
+
     <a href="https://@Amir_Mm_Abbasi"> <img
             src="https://github.com/AmirMohammadAbbasii/AmirMohammadAbbasii/blob/main/images/icons8-telegram-34.png?raw=true" /></a>
 
