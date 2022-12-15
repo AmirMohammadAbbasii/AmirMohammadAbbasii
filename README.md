@@ -12,16 +12,9 @@
 
 <h3>Connect with me:</h3>
 
-
-![linkedin-box-fill ghjhjg(1)](https://user-images.githubusercontent.com/111681850/207700894-ff03fdbe-ee3e-491e-af94-5b61dc93d777.png)
-![icons8-twitter-circled-34](https://user-images.githubusercontent.com/111681850/207842816-ba48d248-6152-402e-80f1-709f09478ff2.png)
-![icons8-facebook-circled-34](https://user-images.githubusercontent.com/111681850/207842833-04084ea8-74f2-449b-a431-ef8f8166b9e6.png)
-![icons8-instagram-34](https://user-images.githubusercontent.com/111681850/207842841-5e97f4cd-6ab6-4430-81da-9fbf945d8f53.png)
 ![icons8-telegram-34](https://user-images.githubusercontent.com/111681850/207842848-d1c08ef0-b9fd-4b72-b579-b830bb384b84.png)
-![icons8-whatsapp-34](https://user-images.githubusercontent.com/111681850/207842854-0ebe3dde-e111-4e03-b422-15b9cbe52046.png)
-![icons8-linkedin-34](https://user-images.githubusercontent.com/111681850/207842862-64fc33ef-7825-4157-b461-f6998ba9b878.png)
-
-
+    <a href="@Amir_Mm_Abbasi"> <img
+            src="![icons8-linkedin-34](https://user-images.githubusercontent.com/111681850/207842862-64fc33ef-7825-4157-b461-f6998ba9b878.png)" /></a>
 
 <h3>Languages and Tools:</h3>
 
