@@ -12,7 +12,7 @@
 
 <h3>Connect with me:</h3>
 
-![icons8-linkedin-34](https://user-images.githubusercontent.com/111681850/207863282-2025cf06-14a5-42c4-8f09-f28a55f30ebf.png)
+    <img src="https://github.com/AmirMohammadAbbasii/AmirMohammadAbbasii/blob/main/images/icons8-linkedin-34.png?raw=true" />
     <a href="https://@Amir_Mm_Abbasi"> <img
             src="https://github.com/AmirMohammadAbbasii/AmirMohammadAbbasii/blob/main/images/icons8-telegram-34.png?raw=true" /></a>
 
