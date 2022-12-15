@@ -12,11 +12,12 @@
 
 <h3>Connect with me:</h3>
 
-![icons8-telegram-34](https://user-images.githubusercontent.com/111681850/207842848-d1c08ef0-b9fd-4b72-b579-b830bb384b84.png)
-
-
+![icons8-linkedin-34](https://user-images.githubusercontent.com/111681850/207863282-2025cf06-14a5-42c4-8f09-f28a55f30ebf.png)
     <a href="https://@Amir_Mm_Abbasi"> <img
-            src="![icons8-linkedin-34](https://user-images.githubusercontent.com/111681850/207842862-64fc33ef-7825-4157-b461-f6998ba9b878.png)" /></a>
+            src="![icons8-telegram-34](https://user-images.githubusercontent.com/111681850/207842848-d1c08ef0-b9fd-4b72-b579-b830bb384b84.png)" /></a>
+
+
+
 
 <h3>Languages and Tools:</h3>
 
