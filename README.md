@@ -14,7 +14,7 @@
 
 ![icons8-linkedin-34](https://user-images.githubusercontent.com/111681850/207863282-2025cf06-14a5-42c4-8f09-f28a55f30ebf.png)
     <a href="https://@Amir_Mm_Abbasi"> <img
-            src="(https://user-images.githubusercontent.com/111681850/207842848-d1c08ef0-b9fd-4b72-b579-b830bb384b84.png)" /></a>
+            src="https://github.com/AmirMohammadAbbasii/AmirMohammadAbbasii/blob/main/images/icons8-telegram-34.png?raw=true" /></a>
 
 
 
